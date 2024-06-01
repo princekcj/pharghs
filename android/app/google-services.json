@@ -1,0 +1,318 @@
+{
+  "project_info": {
+    "project_number": "324152946798",
+    "project_id": "studio-67236",
+    "storage_bucket": "studio-67236.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324152946798:android:55ec69cb5dbd519215f67f",
+        "android_client_info": {
+          "package_name": "com.pharmafast.customerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324152946798-ld353q39f3sblu050orlhiskivjihb3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_DvOqnmIm5EnA8JCL65FaQTJBftFaU7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324152946798-ld353q39f3sblu050orlhiskivjihb3h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "324152946798-bqcgae0ianehgi48kh19g0193tblfq6o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zozostudio.gofuel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324152946798:android:3aa4ebd812ebfd6915f67f",
+        "android_client_info": {
+          "package_name": "com.studio.goservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324152946798-0np1mt98982bvl1e7878q3e789g0e88h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studio.goservice",
+            "certificate_hash": "d69eadb6137fc9d8af6b841817fb218025b1f644"
+          }
+        },
+        {
+          "client_id": "324152946798-roi37okqet6esb54od5u09ilvv37de7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studio.goservice",
+            "certificate_hash": "74d6496eafc6adcbbed940628b3c3c666f75395a"
+          }
+        },
+        {
+          "client_id": "324152946798-vupvkap1q5d4ulld5kiom0u2m5mhhnph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studio.goservice",
+            "certificate_hash": "e852f8b73a44712937e45bcd51595fbb3373d718"
+          }
+        },
+        {
+          "client_id": "324152946798-ld353q39f3sblu050orlhiskivjihb3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_DvOqnmIm5EnA8JCL65FaQTJBftFaU7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324152946798-ld353q39f3sblu050orlhiskivjihb3h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "324152946798-bqcgae0ianehgi48kh19g0193tblfq6o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zozostudio.gofuel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324152946798:android:5f6ed5a0710e379d15f67f",
+        "android_client_info": {
+          "package_name": "com.studio.servicepartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324152946798-ld353q39f3sblu050orlhiskivjihb3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_DvOqnmIm5EnA8JCL65FaQTJBftFaU7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324152946798-ld353q39f3sblu050orlhiskivjihb3h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "324152946798-bqcgae0ianehgi48kh19g0193tblfq6o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zozostudio.gofuel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324152946798:android:acf788cf4b4b3d9a15f67f",
+        "android_client_info": {
+          "package_name": "com.studio.serviceprovider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324152946798-ld353q39f3sblu050orlhiskivjihb3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_DvOqnmIm5EnA8JCL65FaQTJBftFaU7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324152946798-ld353q39f3sblu050orlhiskivjihb3h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "324152946798-bqcgae0ianehgi48kh19g0193tblfq6o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zozostudio.gofuel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324152946798:android:fb1600c3d2459e1e15f67f",
+        "android_client_info": {
+          "package_name": "com.zozo.dineout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324152946798-mcng0rdvb8b66eh8vviqs0pv6ik0adep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zozo.dineout",
+            "certificate_hash": "946dabdb3f26658af3e750b2bca4aa89fb163829"
+          }
+        },
+        {
+          "client_id": "324152946798-ld353q39f3sblu050orlhiskivjihb3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_DvOqnmIm5EnA8JCL65FaQTJBftFaU7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324152946798-ld353q39f3sblu050orlhiskivjihb3h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "324152946798-bqcgae0ianehgi48kh19g0193tblfq6o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zozostudio.gofuel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324152946798:android:e258957f5cb3fd3715f67f",
+        "android_client_info": {
+          "package_name": "com.zozo.gorealestate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324152946798-iqtobleee5860bqjv9loioffor4c9q3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zozo.gorealestate",
+            "certificate_hash": "74d6496eafc6adcbbed940628b3c3c666f75395a"
+          }
+        },
+        {
+          "client_id": "324152946798-mp3m4g0e6iqqu4q3tu9a7sh0n8lnnkt4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zozo.gorealestate",
+            "certificate_hash": "e852f8b73a44712937e45bcd51595fbb3373d718"
+          }
+        },
+        {
+          "client_id": "324152946798-ld353q39f3sblu050orlhiskivjihb3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_DvOqnmIm5EnA8JCL65FaQTJBftFaU7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324152946798-ld353q39f3sblu050orlhiskivjihb3h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "324152946798-bqcgae0ianehgi48kh19g0193tblfq6o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zozostudio.gofuel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324152946798:android:afe5e79ed5ff380915f67f",
+        "android_client_info": {
+          "package_name": "com.zozostudio.gofuel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324152946798-usoj067l0s96662obn828c4ihm9r4cba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zozostudio.gofuel",
+            "certificate_hash": "b0ad462e54c28c7b4e9bec209909152fc2b64ec5"
+          }
+        },
+        {
+          "client_id": "324152946798-ld353q39f3sblu050orlhiskivjihb3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_DvOqnmIm5EnA8JCL65FaQTJBftFaU7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324152946798-ld353q39f3sblu050orlhiskivjihb3h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "324152946798-bqcgae0ianehgi48kh19g0193tblfq6o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zozostudio.gofuel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
