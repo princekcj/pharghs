@@ -667,7 +667,6 @@ class _AboutScreenState extends State<AboutScreen>
                         color: blueColor,
                       ),
                       headerPadding: const EdgeInsets.all(15),
-                      flipRightIconIfOpen: true,
                       headerBackgroundColor: Colors.grey.shade100,
                       contentBackgroundColor: Colors.grey.shade100,
                       header: Text(
