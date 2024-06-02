@@ -4,7 +4,7 @@ class LocaleString extends Translations {
   @override
   Map<String, Map<String, String>> get keys => {
         'en_US': {
-          "Pharmafast": "Pharmafast",
+          "Pharmafast": "PharmaGHS",
           "Search for products or stores": "Search for products or stores",
           "In the Spotlight": "In the Spotlight",
           "Pharmafast we want you to explore":
@@ -638,7 +638,7 @@ class LocaleString extends Translations {
           "Please upload prescription": "يرجى تحميل الوصفة الطبية",
         },
         'fr_US': {
-          "Pharmafast": "Pharmafast",
+          "Pharmafast": "PharmaGHS",
           "Search for products or stores":
               "Rechercher des produits ou des magasins",
           "In the Spotlight": "dans les gros titres",
@@ -843,7 +843,7 @@ class LocaleString extends Translations {
           "Get current location with GPS":
               "obtenir l'emplacement actuel avec le GPS",
           "Select & Proceed": "sélectionner et continuer",
-          "PharmaFast": "Pharmafast",
+          "Pharmafast": "PharmaGHS",
           "Medicine Solution": "solution médicamenteuse",
           "Sign in !": "S'identifier !",
           "Welcome back you’ve been missed! ": "Bienvenue, vous avez manqué !",
@@ -965,7 +965,7 @@ class LocaleString extends Translations {
           "Please upload prescription": "veuillez télécharger l'ordonnance",
         },
         'de_US': {
-          "Pharmafast": "Pharmafast",
+          "Pharmafast": "PharmaGHS",
           "Search for products or stores":
               "Suchen Sie nach Produkten oder Geschäften",
           "In the Spotlight": "In den Schlagzeilen",
@@ -1172,7 +1172,7 @@ class LocaleString extends Translations {
           "Get current location with GPS":
               "Holen Sie sich den aktuellen Standort mit GPS",
           "Select & Proceed": "auswählen und fortfahren",
-          "PharmaFast": "Pharmafast",
+          "Pharmafast": "PharmaGHS",
           "Medicine Solution": "medikamentöse Lösung",
           "Sign in !": "Anmelden !",
           "Welcome back you’ve been missed! ": "Willkommen Sie verpasst!",
@@ -1292,7 +1292,7 @@ class LocaleString extends Translations {
           "Please upload prescription": "Bitte Rezept hochladen",
         },
         'in_US': {
-          "Pharmafast": "Pharmafast",
+          "Pharmafast": "PharmaGHS",
           "Search for products or stores": "Cari produk atau toko",
           "In the Spotlight": "di berita utama",
           "Pharmafast we want you to explore":
@@ -1494,7 +1494,7 @@ class LocaleString extends Translations {
           "Get current location with GPS":
               "dapatkan lokasi saat ini dengan gps",
           "Select & Proceed": "pilih dan lanjutkan",
-          "PharmaFast": "Pharmafast",
+          "Pharmafast": "PharmaGHS",
           "Medicine Solution": "larutan obat",
           "Sign in !": "Masuk !",
           "Welcome back you’ve been missed! ":
@@ -1612,7 +1612,7 @@ class LocaleString extends Translations {
           "Please upload prescription": "tolong upload resepnya",
         },
         'pt_US': {
-          "Pharmafast": "Pharmafast",
+          "Pharmafast": "PharmaGHS",
           "Search for products or stores":
               "Rechercher des produits ou des magasins",
           "In the Spotlight": "dans les gros titres",
@@ -1817,7 +1817,7 @@ class LocaleString extends Translations {
           "Get current location with GPS":
               "obtenir l'emplacement actuel avec le GPS",
           "Select & Proceed": "sélectionner et continuer",
-          "PharmaFast": "Pharmafast",
+          "Pharmafast": "PharmaGHS",
           "Medicine Solution": "solution médicamenteuse",
           "Sign in !": "S'identifier !",
           "Welcome back you’ve been missed! ": "Bienvenue, vous avez manqué !",
@@ -1937,7 +1937,7 @@ class LocaleString extends Translations {
           "Please upload prescription": "Bitte Rezept hochladen",
         },
         'ZA_US': {
-          "Pharmafast": "Pharmafast",
+          "Pharmafast": "PharmaGHS",
           "Search for products or stores": "Soek produkte of winkels",
           "In the Spotlight": "in die opskrifte",
           "Pharmafast we want you to explore":
@@ -2136,7 +2136,7 @@ class LocaleString extends Translations {
           "Add Your delivery address": "voeg jou afleweringsadres by",
           "Get current location with GPS": "kry huidige ligging met gps",
           "Select & Proceed": "kies en gaan voort",
-          "PharmaFast": "Pharmafast",
+          "Pharmafast": "PharmaGHS",
           "Medicine Solution": "dwelm oplossing",
           "Sign in !": "Teken in!",
           "Welcome back you’ve been missed! ": "Welkom Jy het gemis!",
