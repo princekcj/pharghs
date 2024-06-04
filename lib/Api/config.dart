@@ -1,12 +1,12 @@
 class Config {
-  static const String imageUrl = 'https://pharmafast.cscodetech.cloud/';
-  static const paymentBaseUrl = "https://pharmafast.cscodetech.cloud/";
+  static const String imageUrl = 'https://phar-ghs-a16e64e9d577.herokuapp.com/';
+  static const paymentBaseUrl = "https://phar-ghs-a16e64e9d577.herokuapp.com/";
 
   static const googleKey = "********************************";
 
   static const String oneSignel = "******************************";
 
-  static const String baseurl = 'https://pharmafast.cscodetech.cloud/user_api/';
+  static const String baseurl = 'https://phar-ghs-a16e64e9d577.herokuapp.com/user_api/';
 
   static const String loginApi = 'u_login_user.php';
   static const String registerUser = 'u_reg_user.php';
