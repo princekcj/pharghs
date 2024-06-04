@@ -36,7 +36,7 @@ class _StripePaymentWebState extends State<StripePaymentWeb> {
   }
 
   String get initialUrl =>
-      Config.paymentBaseUrl+'stripe/index.php?name=${payCard!.name}&email=${payCard!.email}&cardno=${payCard!.number}&cvc=${payCard!.cvv}&amt=${payCard!.amount}&mm=${payCard!.month}&yyyy=${payCard!.year}';
+      '${Config.paymentBaseUrl}stripe/index.php?name=${payCard!.name}&email=${payCard!.email}&cardno=${payCard!.number}&cvc=${payCard!.cvv}&amt=${payCard!.amount}&mm=${payCard!.month}&yyyy=${payCard!.year}';
   @override
   Widget build(BuildContext context) {
     if (_scaffoldKey.currentState == null) {
