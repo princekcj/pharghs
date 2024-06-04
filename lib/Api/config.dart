@@ -2,7 +2,7 @@ class Config {
   static const String imageUrl = 'https://phar-ghs-a16e64e9d577.herokuapp.com/';
   static const paymentBaseUrl = "https://phar-ghs-a16e64e9d577.herokuapp.com/";
 
-  static const googleKey = "********************************";
+  static const googleKey = "AIzaSyDYeLihFy4JPkdSIJoH3PEQnrJhYlBolUo";
 
   static const String oneSignel = "******************************";
 
